@@ -5,5 +5,4 @@ It contains:
 1- Thesis Report (PDF).
 2- IEEE Paper summarizes main contributions in the research (PDF).
 3- 4 sample codes of different experiments performed on each dataset (.ipynb).
-4- Bachelor Defense Presentation (PPT).
 
